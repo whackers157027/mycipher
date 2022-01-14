@@ -17,7 +17,7 @@ def encrypt(text,s):
 	return result
 
 #check the above function
-text = "" # flag to be put here
+text = "wctf{fake_flag_ha_ha_ha}" # <- fake flag
 s = 4
 print "Text : " + text
 print "Shift : " + str(s)
